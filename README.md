@@ -1,2 +1,2 @@
 # logic-tenacity
-University web app that was originally made in .NET migrated to Spring Boot
+API for an university web app that was originally made in ASP.NET migrated to Spring Boot
