@@ -18,7 +18,7 @@ Da bi se aplikacija uspešno izbildovala, potrebno je imati sledeće:
 # Pokretanje aplikacije na serveru
 
 Ovo je automatizavno putem skripte `build-and-deploy.sh` i systemd user servisa.'
-Šifra je `tenacity_logic`.
+Šifra je .
 Server se deplojuje putem `build-and-deploy.sh`, gde na kraju systemd preuzima menedzovanje celog procesa.
 
 ## build-and-deploy.sh
@@ -32,9 +32,6 @@ Nakon toga se updejtuje dotnet, builda u produkcionu verziju, i uploaduje na ser
 - `admin@logictenacity.com` `admin`
 - `pera@gmail.com` `pera`
 - `toma@gmail.com` `toma`
-- `vdjurovic002@gmail.com` `Veljko123`
-- `aleksabozinovic25e@gmail.com` `Aleksa123`
-- `ilicdusan2002@gmail.com` `Dusan123`
 
 # Lokalno pokretanje aplikacije
 
@@ -61,13 +58,3 @@ Ukoliko želite aplikaciju da pokrenete putem cli-a, to se može postići na sle
 2. Pokrenite komandu: dotnet restore
 3. Pokrenite komandu: dotnet build
 4. Pokrenite komandu: dotnet run
-
-
-# Autori
-
-- Aleksa Božinović
-- Aleksandra Janković
-- Anđela Kidišević
-- Dušan Ilić
-- Veljko Đurović
-- Lazar Joksimović
